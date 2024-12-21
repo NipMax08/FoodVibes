@@ -10,8 +10,8 @@ This project delves into the concept of **Sentiment Analysis** within the contex
 3. [Sentiment Labeling](#sentiment-labeling)
 4. [Model Training](#model-training)
 5. [Conclusion](#conclusion)
-6. [Future Work](#future-work)
-7. [References](#references)
+6. [Current Work](#current-work)
+7. [Future Work](#future-work)
 
 ---
 
